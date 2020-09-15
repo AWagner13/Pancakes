@@ -6,7 +6,7 @@ import java.util.Scanner;
 /*
  Integrantes de equipo
 
--Olivia Janini 
+-Olivia Janini Lopez Martinez
 -Alfredo Misrain Ramos Parra
 -Jessy Sebastian Arellano Soriano
 
